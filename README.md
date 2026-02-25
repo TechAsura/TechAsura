@@ -28,6 +28,8 @@ I'm passionate about homelabbing, self-hosted infrastructure, and building relia
 
 | Project | Description |
 |--------|-------------|
+| [homelab-infrastructure](https://github.com/TechAsura/homelab-infrastructure) | Full homelab setup on Proxmox VE — reverse proxy, DNS ad-blocking, monitoring, and media stack |
+| [homelab-nginx-proxy](https://github.com/TechAsura/homelab-nginx-proxy) | Self-hosted reverse proxy using Nginx Proxy Manager with subdomain-based HTTPS access |
 | [homelab-media-server](https://github.com/TechAsura/homelab-media-server) | Self-hosted Jellyfin media server on Proxmox with network share storage |
 | [linux-vps-hardening](https://github.com/TechAsura/linux-vps-hardening) | Provisioning & security hardening guide for Linux VPS environments |
 
