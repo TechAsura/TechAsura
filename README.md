@@ -37,7 +37,7 @@ I'm passionate about homelabbing, self-hosted infrastructure, and building relia
 
 ### 📈 GitHub Stats
 
-![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechAsura&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TechAsura&hide_border=true)
 
 ---
 
