@@ -28,14 +28,14 @@ I'm passionate about homelabbing, self-hosted infrastructure, and building relia
 
 | Project | Description |
 |--------|-------------|
-| [homelab-media-server](https://github.com/ElijahRobinson/homelab-media-server) | Self-hosted Jellyfin media server on Proxmox with network share storage |
-| [linux-vps-hardening](https://github.com/ElijahRobinson/linux-vps-hardening) | Provisioning & security hardening guide for Linux VPS environments |
+| [homelab-media-server](https://github.com/TechAsura/homelab-media-server) | Self-hosted Jellyfin media server on Proxmox with network share storage |
+| [linux-vps-hardening](https://github.com/TechAsura/linux-vps-hardening) | Provisioning & security hardening guide for Linux VPS environments |
 
 ---
 
 ### 📈 GitHub Stats
 
-![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElijahRobinson&show_icons=true&theme=default&hide_border=true)
+![Elijah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechAsura&show_icons=true&theme=default&hide_border=true)
 
 ---
 
