@@ -1,14 +1,20 @@
 # Hi, I'm Elijah 👋
 
-I'm passionate about homelabbing, self-hosted infrastructure, and building reliable systems from the ground up.
+I build self-hosted infrastructure and autonomous AI systems. I'm passionate about
+making things run reliably — whether that's a multi-node Proxmox cluster or a
+self-managing AI assistant that's been running in production for months.
 
 ---
 
 ### 🔧 What I'm Working On
 
-- **Homelab** — Running a Proxmox-based homelab with self-hosted services including a Jellyfin media server
-- **Linux hardening** — Documenting security best practices for provisioning and hardening production Linux VPS environments
-- **Infrastructure** — Exploring automation, networking, and server management
+- **Cyn** — A self-managing AI Discord assistant with persistent memory and autonomous
+  skill acquisition, built on GPT-4o, Hermes, and Honcho
+- **Homelab** — Two-node Proxmox VE cluster hosting 10+ containerized services with
+  ZFS storage, automated monitoring, and documented recovery procedures
+- **Job Application Pipeline** — AI-powered automation using n8n, Claude API, and
+  Notion to generate tailored applications at scale
+- **CompTIA A+ & Network+** — Currently studying toward certification
 
 ---
 
@@ -16,22 +22,12 @@ I'm passionate about homelabbing, self-hosted infrastructure, and building relia
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [homelab-infrastructure](https://github.com/TechAsura/homelab-infrastructure) | Full homelab setup on Proxmox VE — reverse proxy, DNS ad-blocking, monitoring, and media stack |
-| [homelab-nginx-proxy](https://github.com/TechAsura/homelab-nginx-proxy) | Self-hosted reverse proxy using Nginx Proxy Manager with subdomain-based HTTPS access |
-| [homelab-media-server](https://github.com/TechAsura/homelab-media-server) | Self-hosted Jellyfin media server on Proxmox with network share storage |
-| [linux-vps-hardening](https://github.com/TechAsura/linux-vps-hardening) | Provisioning & security hardening guide for Linux VPS environments |
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
